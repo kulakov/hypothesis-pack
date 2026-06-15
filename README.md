@@ -19,6 +19,7 @@
 | **Сет Годин** | [skills/l-k-godin.md](skills/l-k-godin.md) | Усиление оффера и племенного позиционирования |
 | **Risk Assumption Test** | [skills/l-a-rat.md](skills/l-a-rat.md) | Убийственные предположения и killer-эксперимент |
 | **Pre-mortem** | [skills/l-a-premortem.md](skills/l-a-premortem.md) | Предсказание провала до запуска |
+| **Адвокат дьявола** | [skills/l-a-critic-project.md](skills/l-a-critic-project.md) | Безжалостная критика, поиск убийственных слабостей |
 
 ## Сценарии работы
 
